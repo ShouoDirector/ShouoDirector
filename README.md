@@ -15,6 +15,8 @@
 
   -> 🌱 I’m currently learning **Full Stack Development**
 
+  -> 🌱 I’m planning to make **Admin Dashboard for Otakus**
+
   -> 💬 Ask me about **lightnovels , anime**
 
   -> 📫 How to reach me **Go ask fellow otakus**
