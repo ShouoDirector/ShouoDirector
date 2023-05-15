@@ -13,7 +13,7 @@
 
   -> 🔭 I’m currently working on **Eco Resort Management**
 
-  -> 🌱 I’m currently learning **Full Stack Development | New Technologies**
+  -> 🌱 I’m currently learning **Full Stack Development**
 
   -> 💬 Ask me about **lightnovels , anime**
 
