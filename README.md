@@ -11,11 +11,11 @@
 <h1 align="center">Hi 👋, I'm ShouoDirector</h1>
 <h3 align="center">A passionate Otaku Developer from Philippines <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="20"> </h3><br><br>
 
-  -> 🔭 I’m currently working on **Eco Resort Management**
+  -> 🔭 I’m currently working on **Decision Support System**
 
   -> 🌱 I’m currently learning **Full Stack Development**
 
-  -> 🌱 I’m planning to make **Admin Dashboard for Otakus**
+  -> 🌱 I’m planning to make **Admin Dashboard for Otakus** in near future
 
   -> 💬 Ask me about **lightnovels , anime**
 
@@ -28,10 +28,10 @@
 
 <h3 align="">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 </p><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
