@@ -1,4 +1,7 @@
-<img src="https://media.tenor.com/9n_ZqBC2y_wAAAAC/nature-japan.gif" alt="MasterHead" width = "100%" />
+<div style="overflow: hidden; width: 100%; height: 50%; position: relative;">
+    <img src="https://media.tenor.com/9n_ZqBC2y_wAAAAC/nature-japan.gif" alt="MasterHead" style="position: absolute; top: 0; width: 100%;">
+</div>
+
 
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/59BtvCDzPt8AAAAd/anime-animegirls.gif">
