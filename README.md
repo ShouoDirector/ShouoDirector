@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/9n_ZqBC2y_wAAAAC/nature-japan.gif" alt="MasterHead" width="100%">
+<img src="https://media.tenor.com/9n_ZqBC2y_wAAAAC/nature-japan.gif" alt="MasterHead" width="100%" height="30%">
 
 
 
