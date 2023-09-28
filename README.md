@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/9n_ZqBC2y_wAAAAC/nature-japan.gif" alt="MasterHead" style="clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 0% 50%); height: 30%;" />
+<img src="https://media.tenor.com/9n_ZqBC2y_wAAAAC/nature-japan.gif" alt="MasterHead" style="clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 0% 50%); height: 30%; width: 100%;" />
 
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/59BtvCDzPt8AAAAd/anime-animegirls.gif">
