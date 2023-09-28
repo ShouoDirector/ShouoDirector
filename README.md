@@ -38,7 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShouoDirector&show_icons=true&locale=en&theme=tokyonight" alt="#" /></p>
 <br> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouoDirector&&theme=tokyonight" alt="#" /></p>
 
 <!---
 ShouoDirector/ShouoDirector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
