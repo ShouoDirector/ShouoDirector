@@ -16,7 +16,7 @@
 
   -> 💬 Ask me about **lightnovels , anime**
 
-  -> 📫 How to reach me **Go ask fellow otakus**
+  -> 📫 How to reach me **via email**
 
   -> ⚡ Fun fact **I am Funny... really** <br><br>
 
