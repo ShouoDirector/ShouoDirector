@@ -6,7 +6,7 @@
 <p align="left"></p>
 
 <h1 align="center">Hi 👋, I'm OtakuDirector</h1>
-<h3 align="center">A passionate Otaku Developer from Philippines <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="20"> </h3><br><br>
+<h3 align="center">A passionate Otaku Developer> </h3><br><br>
 
   -> 🔭 I’m currently working on **Decision Support System**
 
